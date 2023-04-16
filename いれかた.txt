@@ -1,0 +1,2 @@
+font:stand>Theme.
+ゲーム内:Settings>Appearance>Font&Text>Reload Font.
